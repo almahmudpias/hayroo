@@ -1,0 +1,16 @@
+/* buttons */
+.btn1{
+    background-color: #131921;
+    color: white;
+    font-size: 14px;
+    padding: 13px 33px;
+    border-radius: 25px;
+}
+.btn1:hover{
+    background-color: #febd69;
+    color: black;
+}
+
+.form{
+    border-radius: 15px;
+}
